@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "web-development-resources",
-        "src": "./webDevelopmentResources/README.md"
+        "offline": "http://127.0.0.1:8000/webDevelopmentResources/index.md",
+        "online": "https://atulnotes.github.io/webDevelopmentResources/index.md"
     }
 ]
